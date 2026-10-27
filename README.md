@@ -23,7 +23,7 @@ Are you working on an interesting project? Have you had a major technical breakt
 ## Schedule
 **Tuesday, November 17**
 - 11:30 - 11:35 am: [Add: Your name + LinkedIn link, your presentation title]
-- 3:40 - 3:45 pm: [Add: Your name + LinkedIn link, your presentation title]
+- 3:40 - 3:45 pm: 3:40 - 3:45 pm: [Greg Taylor](https://www.linkedin.com/in/gregorysdtaylor) Securing AI Agents Across Voice and Web
 
 **Wednesday, November 18**
 - 11:30 - 11:35 am: [Add: Your name + LinkedIn link, your presentation title]
