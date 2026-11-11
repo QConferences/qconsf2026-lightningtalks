@@ -25,15 +25,15 @@ Are you working on an interesting project? Have you had a major technical breakt
 - 11:30 - 11:35 am: [Maicon Peixinho](https://linkedin.com/in/maiconpeixinho), Beyond the Run: Software Attestation in the Agentic Era
 - 11:35 - 11:40 am: Your name + LinkedIn Link + Talk title
 
-- 2:30 - 2:35 pm: [Thomas Anselmi](https://www.linkedin.com/in/thomas-anselmi), A Conservation Law for Data Pipelines
+- 02:30 - 02:35 pm: [Thomas Anselmi](https://www.linkedin.com/in/thomas-anselmi), A Conservation Law for Data Pipelines
 - 02:35 - 02:40 am: Your name + LinkedIn Link + Talk title
 
-- 3:40 - 3:45 pm: [Michael Cowden](https://www.linkedin.com/in/michael-j-cowden/), From Metadata to Meaning: AI-Powered Art Discovery at the National Gallery
+- 03:40 - 03:45 pm: [Michael Cowden](https://www.linkedin.com/in/michael-j-cowden/), From Metadata to Meaning: AI-Powered Art Discovery at the National Gallery
 - 03:45 - 03:50 am: Your name + LinkedIn Link + Talk title
   
 **Wednesday, November 18**
 - 11:30 - 11:35 am: [Simon Bernard](https://www.linkedin.com/in/besimon), Solving one bottleneck at a time: what a year of AI adoption actually changed
 - 11:35 - 11:40 am: Your name + LinkedIn Link + Talk tit
 
-- 2:30 - 2:35 pm: [Greg Taylor](https://www.linkedin.com/in/gregorysdtaylor), Securing AI Agents Across Voice and Web
+- 02:30 - 02:35 pm: [Greg Taylor](https://www.linkedin.com/in/gregorysdtaylor), Securing AI Agents Across Voice and Web
 - 02:35 - 02:40 am: Your name + LinkedIn Link + Talk title
