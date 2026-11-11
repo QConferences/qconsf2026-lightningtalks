@@ -26,6 +26,6 @@ Are you working on an interesting project? Have you had a major technical breakt
 - 3:40 - 3:45 pm: [Michael Cowden](https://www.linkedin.com/in/michael-j-cowden/), From Metadata to Meaning: AI-Powered Art Discovery at the National Gallery
   
 **Wednesday, November 18**
-- 11:30 - 11:35 am: [Simon Bernard](https://www.linkedin.com/in/besimon), "Solving one bottleneck at a time: what a year of AI adoption actually changed"
-- 2:30 - 2:35 pm: [Greg Taylor](https://www.linkedin.com/in/gregorysdtaylor) Securing AI Agents Across Voice and Web
+- 11:30 - 11:35 am: [Simon Bernard](https://www.linkedin.com/in/besimon), Solving one bottleneck at a time: what a year of AI adoption actually changed
+- 2:30 - 2:35 pm: [Greg Taylor](https://www.linkedin.com/in/gregorysdtaylor), Securing AI Agents Across Voice and Web
 
