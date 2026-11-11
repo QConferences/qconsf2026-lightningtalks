@@ -23,8 +23,9 @@ Are you working on an interesting project? Have you had a major technical breakt
 ## Schedule
 **Tuesday, November 17**
 - 11:30 - 11:35 am: [Maicon Peixinho](https://linkedin.com/in/maiconpeixinho), Beyond the Run: Software Attestation in the Agentic Era
+- 2:30 - 2:35 pm: [Thomas Anselmi](https://www.linkedin.com/in/thomas-anselmi), A Conservation Law for Data Pipelines
 - 3:40 - 3:45 pm: [Michael Cowden](https://www.linkedin.com/in/michael-j-cowden/), From Metadata to Meaning: AI-Powered Art Discovery at the National Gallery
   
 **Wednesday, November 18**
-- 11:30 - 11:35 am: [Simon Bernard](https://www.linkedin.com/in/besimon), "Solving one bottleneck at a time: what a year of AI adoption actually changed"
-- 2:30 - 2:35 pm: [Thomas Anselmi](https://www.linkedin.com/in/thomas-anselmi), A Conservation Law for Data Pipelines
+- 11:30 - 11:35 am: [Simon Bernard](https://www.linkedin.com/in/besimon), Solving one bottleneck at a time: what a year of AI adoption actually changed
+- 2:30 - 2:35 pm: [Greg Taylor](https://www.linkedin.com/in/gregorysdtaylor), Securing AI Agents Across Voice and Web
