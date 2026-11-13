@@ -33,7 +33,7 @@ Are you working on an interesting project? Have you had a major technical breakt
   
 **Wednesday, November 18**
 - 11:30 - 11:35 am: [Simon Bernard](https://www.linkedin.com/in/besimon), Solving one bottleneck at a time: what a year of AI adoption actually changed
-- 11:35 - 11:40 am: Your name + LinkedIn Link + Talk tit
+- 11:35 - 11:40 am: [Mark Niklas Müller](https://www.linkedin.com/in/mark-niklas-mueller/), Coding agents find real bugs. Just not the ones you fix.
 
 - 02:30 - 02:35 pm: [Greg Taylor](https://www.linkedin.com/in/gregorysdtaylor), Securing AI Agents Across Voice and Web
 - 02:35 - 02:40 am: Your name + LinkedIn Link + Talk title
