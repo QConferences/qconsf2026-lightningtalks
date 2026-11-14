@@ -23,7 +23,7 @@ Are you working on an interesting project? Have you had a major technical breakt
 ## Schedule
 **Tuesday, November 17**
 - 11:30 - 11:35 am: [Maicon Peixinho](https://linkedin.com/in/maiconpeixinho), Beyond the Run: Software Attestation in the Agentic Era
-- 11:35 - 11:40 am: Your name + LinkedIn Link + Talk title
+- 11:35 - 11:40 am: [Deepak Subramanian](https://www.linkedin.com/in/deepaksubu/), [Clinton Farleigh](https://www.linkedin.com/in/clintonfarleigh/), [Madhankumar Ponmudi Subramanian](https://www.linkedin.com/in/psmadhankumar/), Agentic Development for Senior Engineers
 
 - 02:30 - 02:35 pm: [Thomas Anselmi](https://www.linkedin.com/in/thomas-anselmi), A Conservation Law for Data Pipelines
 - 02:35 - 02:40 am: Your name + LinkedIn Link + Talk title
