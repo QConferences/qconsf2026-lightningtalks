@@ -24,16 +24,13 @@ Are you working on an interesting project? Have you had a major technical breakt
 **Tuesday, November 17**
 - 11:30 - 11:35 am: [Maicon Peixinho](https://linkedin.com/in/maiconpeixinho), Beyond the Run: Software Attestation in the Agentic Era
 - 11:35 - 11:40 am: [Deepak Subramanian](https://www.linkedin.com/in/deepaksubu/), [Clinton Farleigh](https://www.linkedin.com/in/clintonfarleigh/), [Madhankumar Ponmudi Subramanian](https://www.linkedin.com/in/psmadhankumar/), Agentic Development for Senior Engineers
-
 - 02:30 - 02:35 pm: [Thomas Anselmi](https://www.linkedin.com/in/thomas-anselmi), A Conservation Law for Data Pipelines
 - 02:35 - 02:40 am: Your name + LinkedIn Link + Talk title
-
 - 03:40 - 03:45 pm: [Michael Cowden](https://www.linkedin.com/in/michael-j-cowden/), From Metadata to Meaning: AI-Powered Art Discovery at the National Gallery
 - 03:45 - 03:50 am: Your name + LinkedIn Link + Talk title
   
 **Wednesday, November 18**
 - 11:30 - 11:35 am: [Simon Bernard](https://www.linkedin.com/in/besimon), Solving one bottleneck at a time: what a year of AI adoption actually changed
 - 11:35 - 11:40 am: [Mark Niklas Müller](https://www.linkedin.com/in/mark-niklas-mueller/), Coding agents find real bugs. Just not the ones you fix.
-
 - 02:30 - 02:35 pm: [Greg Taylor](https://www.linkedin.com/in/gregorysdtaylor), Securing AI Agents Across Voice and Web
 - 02:35 - 02:40 am: Your name + LinkedIn Link + Talk title
