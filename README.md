@@ -27,7 +27,7 @@ Are you working on an interesting project? Have you had a major technical breakt
 - 02:30 - 02:35 pm: [Thomas Anselmi](https://www.linkedin.com/in/thomas-anselmi), A Conservation Law for Data Pipelines
 - 02:35 - 02:40 am: Your name + LinkedIn Link + Talk title
 - 03:40 - 03:45 pm: [Michael Cowden](https://www.linkedin.com/in/michael-j-cowden/), From Metadata to Meaning: AI-Powered Art Discovery at the National Gallery
-- 03:45 - 03:50 am: Your name + LinkedIn Link + Talk title
+- 03:45 - 03:50 pm: [David Simmer](https://linkedin.com/in/simmerer) - Better Vibes: Care & Craft in Your Presentation Design
   
 **Wednesday, November 18**
 - 11:30 - 11:35 am: [Simon Bernard](https://www.linkedin.com/in/besimon), Solving one bottleneck at a time: what a year of AI adoption actually changed
